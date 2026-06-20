@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Fridge Storage Container Set",
+    "category": "Fridge Storage",
+    "price": 899,
+    "originalPrice": 1299,
+    "image": "assets/images/product-01.jpg",
+    "badge": "New",
+    "description": "7-piece modular storage set",
+    "stock": true,
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "name": "Stainless Steel Masala Box",
+    "category": "Masala Boxes",
+    "price": 549,
+    "originalPrice": 799,
+    "image": "assets/images/product-02.jpg",
+    "badge": "Best Seller",
+    "description": "13-compartment spice organizer",
+    "stock": true,
+    "rating": 4.9
+  },
+  {
+    "id": 3,
+    "name": "Premium Cooking Utensil Set",
+    "category": "Cooking Essentials",
+    "price": 1499,
+    "originalPrice": 1999,
+    "image": "assets/images/product-03.jpg",
+    "badge": "",
+    "description": "10-piece non-stick set",
+    "stock": true,
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "name": "Airtight Food Storage Containers",
+    "category": "Food Storage",
+    "price": 699,
+    "originalPrice": 999,
+    "image": "assets/images/product-04.jpg",
+    "badge": "Sale",
+    "description": "5-piece BPA-free set",
+    "stock": true,
+    "rating": 4.6
+  },
+  {
+    "id": 5,
+    "name": "Kitchen Rack Organizer",
+    "category": "Kitchen Utensils",
+    "price": 449,
+    "originalPrice": 649,
+    "image": "assets/images/product-05.jpg",
+    "badge": "",
+    "description": "3-tier wall-mounted rack",
+    "stock": true,
+    "rating": 4.5
+  },
+  {
+    "id": 6,
+    "name": "Measuring Cups & Spoons Set",
+    "category": "Cooking Essentials",
+    "price": 299,
+    "originalPrice": 449,
+    "image": "assets/images/product-06.jpg",
+    "badge": "",
+    "description": "Precision cooking essentials",
+    "stock": true,
+    "rating": 4.4
+  }
+]
